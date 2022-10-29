@@ -1,5 +1,6 @@
 # Chess PGN Viewer
 Portable Game Notation (PGN) is a standard plain text format for recording chess games. This is an unfinished project written in Python. It parses PGN files and reproduces the chess game.
+Demonstration Video: https://www.youtube.com/watch?v=nApR0UpyFiU
 
 Idea was based on https://chesstempo.com/pgn-viewer/
 
